@@ -1,5 +1,5 @@
 Wassup, Im **Begli Annanazarov**. _Im 18. Im student of LLD (language learning department) in IUHD (The International University for Humanities and Development)._ :shipit:
-- Im a developer. My stack:
+- My stack:
   - HTML, Emmet, BEM
   - CSS, Tailwind, Bootstrap
   - JavaSctipt, DOM, some React.js
