@@ -5,7 +5,7 @@ Wassup, Im **Begli Annanazarov**. _Im 18. Im student of LLD (language learning d
   - JavaSctipt, DOM, React.js
   - Vite, npm, node, git, github
 - Currently learning React.js
-- C++, Data Atructures & Algorithms
+- C++, Data Structures & Algorithms
 
 - Find me on tg: @achiIIes
  
