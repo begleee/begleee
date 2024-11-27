@@ -2,9 +2,10 @@ Wassup, Im **Begli Annanazarov**. _Im 18. Im student of LLD (language learning d
 - My stack:
   - HTML, Emmet, BEM
   - CSS, Tailwind, Bootstrap
-  - JavaSctipt, DOM, some React.js
+  - JavaSctipt, DOM, React.js
   - Vite, npm, node, git, github
 - Currently learning React.js
+- с++, Data Atructures & Algorithms
 
 - Find me on tg: @achiIIes
  
