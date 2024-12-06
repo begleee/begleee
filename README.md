@@ -4,7 +4,7 @@ Im **Begli Annanazarov**, a rising junior majoring in Software development. My w
 ***
 ##⚒️Skills and Technologies
 |Category|Skills|
------------------
+|---------|-------|
 |Programming Languages| JavaScript, Typescript, C++|
 |Technologies & frameworkd| React, Git, GitHub, Vite, Tailwind, SCSS, npm, node, BEM, Emmet|
 ---
