@@ -13,4 +13,4 @@ Im **Begli Annanazarov**, a rising junior majoring in Software development. My w
 [Telegram: @achiIIes](https://t.me/achiIIes)
 
 
-[Email: beglee06@gmail.com]()
+[Email: beglee06@gmail.com](https://mailto:beglee06@gmail.com)
