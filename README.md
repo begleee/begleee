@@ -1,6 +1,6 @@
 # Wassup👋
 
-Im **Begli Annanazarov**, a rising junior majoring in Software engineering. My work primarily focuses on ReactJS projects, exploring data structures and algorithms solving on C++.
+Im **Begli**, a rising junior majoring in Software engineering. My work primarily focuses on ReactJS projects, exploring data structures and algorithms solving on C++.
 
 ## ⚒️Skills and Technologies
 |Category|Skills|
